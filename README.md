@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Akmal Munggaran</h1>
-<h3 align="left">Currently majoring in Information System and Technology at Institut Teknologi Bandung. interested in product management and backend development. Still in the learning stage but looking for opportunities to collaborate with others.</h3>
+<h3 align="left">I am a third-year student majoring in Information System and Technology at Institut Teknologi Bandung. I have interests in Product Management and Frontend Development. Still in the learning stage but looking for opportunities to collaborate and new learning experiences. To achieve that, I have strong communication skills and I feel challenged to learn new things.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
