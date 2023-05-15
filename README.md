@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Akmal Munggaran</h1>
-<h3 align="left">I am a third-year student majoring in Information System and Technology at Institut Teknologi Bandung. Align to my background, I have a strong interest in Software Engineering. Having some experiences in this field, I am highly confident in Frontend Development and Product Management. Currently in the learning stage but looking for opportunities to collaborate and boost my skills. To achieve that, I have strong communication skills and feel challenged to learn new things. </h3>
+<h3 align="left">
+
+I am a third-year student majoring in Information System and Technology at Institut Teknologi Bandung. Align to my background, I have a strong interest in Product Development. Having some experiences in this field, I am highly confident in Product Management and Frontend Development. Currently in the learning stage but looking for opportunities to collaborate and boost my skills. To achieve that, I have strong communication skills and feel challenged to learn new things. Besides that, I’m an innovative person. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
