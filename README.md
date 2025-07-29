@@ -75,11 +75,6 @@ I graduated in Information Systems and Technology from Institut Teknologi Bandun
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
-
-  <!-- NoSQL -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-nosql-coding-and-development-flat-flat-juicy-fish.png" alt="nosql" width="40" height="40"/>
-  </a>
 </p>
 
 
